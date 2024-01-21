@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/auto-hw-thuesday/static/css/main.d6a80aaa.css",
+    "main.js": "/auto-hw-thuesday/static/js/main.8e783cf1.js",
+    "static/js/787.7cf81b66.chunk.js": "/auto-hw-thuesday/static/js/787.7cf81b66.chunk.js",
+    "static/media/avatar.png": "/auto-hw-thuesday/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/auto-hw-thuesday/index.html",
+    "main.d6a80aaa.css.map": "/auto-hw-thuesday/static/css/main.d6a80aaa.css.map",
+    "main.8e783cf1.js.map": "/auto-hw-thuesday/static/js/main.8e783cf1.js.map",
+    "787.7cf81b66.chunk.js.map": "/auto-hw-thuesday/static/js/787.7cf81b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6a80aaa.css",
+    "static/js/main.8e783cf1.js"
+  ]
+}
