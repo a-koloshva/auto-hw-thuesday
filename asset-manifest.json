@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/auto-hw-thuesday/static/css/main.c7840127.css",
-    "main.js": "/auto-hw-thuesday/static/js/main.aa472f2d.js",
+    "main.css": "/auto-hw-thuesday/static/css/main.d69e6336.css",
+    "main.js": "/auto-hw-thuesday/static/js/main.fce7f94a.js",
     "static/js/787.7cf81b66.chunk.js": "/auto-hw-thuesday/static/js/787.7cf81b66.chunk.js",
-    "static/media/avatar.png": "/auto-hw-thuesday/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/auto-hw-thuesday/index.html",
-    "main.c7840127.css.map": "/auto-hw-thuesday/static/css/main.c7840127.css.map",
-    "main.aa472f2d.js.map": "/auto-hw-thuesday/static/js/main.aa472f2d.js.map",
+    "main.d69e6336.css.map": "/auto-hw-thuesday/static/css/main.d69e6336.css.map",
+    "main.fce7f94a.js.map": "/auto-hw-thuesday/static/js/main.fce7f94a.js.map",
     "787.7cf81b66.chunk.js.map": "/auto-hw-thuesday/static/js/787.7cf81b66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7840127.css",
-    "static/js/main.aa472f2d.js"
+    "static/css/main.d69e6336.css",
+    "static/js/main.fce7f94a.js"
   ]
 }
