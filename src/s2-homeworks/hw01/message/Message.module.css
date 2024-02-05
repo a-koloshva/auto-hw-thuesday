@@ -1,31 +1,30 @@
 .message {
-
+  border: 1px solid red;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
 }
 
 .imageAndText {
-
+  width: 100%;
+  flex-direction: row-reverse;
 }
 
 .imageAndText img {
-
 }
 
 .text {
-
+  width: 100%;
 }
 
 .text:after {
-
 }
 
 .name {
-
 }
 
 .messageText {
-
 }
 
 .time {
-
 }
