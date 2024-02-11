@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/auto-hw-thuesday/static/css/main.d69e6336.css",
-    "main.js": "/auto-hw-thuesday/static/js/main.fce7f94a.js",
+    "main.css": "/auto-hw-thuesday/static/css/main.a945142c.css",
+    "main.js": "/auto-hw-thuesday/static/js/main.b52a3d30.js",
     "static/js/787.7cf81b66.chunk.js": "/auto-hw-thuesday/static/js/787.7cf81b66.chunk.js",
     "index.html": "/auto-hw-thuesday/index.html",
-    "main.d69e6336.css.map": "/auto-hw-thuesday/static/css/main.d69e6336.css.map",
-    "main.fce7f94a.js.map": "/auto-hw-thuesday/static/js/main.fce7f94a.js.map",
+    "main.a945142c.css.map": "/auto-hw-thuesday/static/css/main.a945142c.css.map",
+    "main.b52a3d30.js.map": "/auto-hw-thuesday/static/js/main.b52a3d30.js.map",
     "787.7cf81b66.chunk.js.map": "/auto-hw-thuesday/static/js/787.7cf81b66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d69e6336.css",
-    "static/js/main.fce7f94a.js"
+    "static/css/main.a945142c.css",
+    "static/js/main.b52a3d30.js"
   ]
 }
