@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/auto-hw-thuesday/static/css/main.ed2888db.css",
-    "main.js": "/auto-hw-thuesday/static/js/main.c1f4ed65.js",
+    "main.css": "/auto-hw-thuesday/static/css/main.189073f6.css",
+    "main.js": "/auto-hw-thuesday/static/js/main.9b0ba06f.js",
     "static/js/787.7cf81b66.chunk.js": "/auto-hw-thuesday/static/js/787.7cf81b66.chunk.js",
     "static/media/avatar.png": "/auto-hw-thuesday/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/auto-hw-thuesday/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -11,12 +11,12 @@
     "static/media/checked.svg": "/auto-hw-thuesday/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/auto-hw-thuesday/index.html",
     "static/media/burger.svg": "/auto-hw-thuesday/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.ed2888db.css.map": "/auto-hw-thuesday/static/css/main.ed2888db.css.map",
-    "main.c1f4ed65.js.map": "/auto-hw-thuesday/static/js/main.c1f4ed65.js.map",
+    "main.189073f6.css.map": "/auto-hw-thuesday/static/css/main.189073f6.css.map",
+    "main.9b0ba06f.js.map": "/auto-hw-thuesday/static/js/main.9b0ba06f.js.map",
     "787.7cf81b66.chunk.js.map": "/auto-hw-thuesday/static/js/787.7cf81b66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed2888db.css",
-    "static/js/main.c1f4ed65.js"
+    "static/css/main.189073f6.css",
+    "static/js/main.9b0ba06f.js"
   ]
 }
