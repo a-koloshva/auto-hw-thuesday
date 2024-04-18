@@ -29,11 +29,11 @@ function Clock() {
         setShow(false);
     };
 
-    const stringTime = date.toLocaleTimeString() || <br />;
-    const stringDate = date.toLocaleDateString() || <br />;
+    const stringTime = date.toLocaleTimeString('ru-Ru') || <br />;
+    const stringDate = date.toLocaleDateString('ru-Ru') || <br />;
 
-    const stringDay = date.toLocaleString('en', { weekday: 'long' }) || <br />;
-    const stringMonth = date.toLocaleString('en', { month: 'long' }) || <br />;
+    const stringDay = date.toLocaleString('en-US', { weekday: 'long' }) || <br />;
+    const stringMonth = date.toLocaleString('en-US', { month: 'long' }) || <br />;
 
     return (
         <div className={s.clock}>
